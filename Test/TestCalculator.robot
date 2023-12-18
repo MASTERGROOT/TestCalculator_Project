@@ -16,7 +16,7 @@ OpenCalculator_Project
         Close Browser
     END
 
-PressTest
+ClickTest
     [Tags]    Test function
     LanuchURL
     Set Selenium Speed    value=0.5 seconds
