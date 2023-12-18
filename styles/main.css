@@ -85,13 +85,14 @@ body {
 }
 
 .footer-credit:hover {
+  cursor: pointer;
   background-color: aliceblue;
   border-radius: 10px;
 }
 
-.footer-credit:active {
+/* .footer-credit:active {
   background-color: rgb(70, 28, 223)
-}
+} */
 
 a {
   text-decoration-line: none;
